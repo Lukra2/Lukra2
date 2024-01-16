@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 - Futuro desenvolvedor 👾
-   > Javascript, HTML e CSS, também uso C# com o [Unity](https://unity.com/pt)
+   > JavaScript, HTML e CSS, também uso C# com o [Unity](https://unity.com/pt)
 - Aprendendo a tocar uma viola 🤟
 - Seguindo a vida 🐟
 > [!TIP]
