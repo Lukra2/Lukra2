@@ -1,7 +1,7 @@
 # Oi! Sou o Lukra!
 
 ## Sobre mim:
-- Futuro desenvolvedor 👾
+- Desenvolvedor full-stack 👾
    > Domínio de Web Development: JavaScript, HTML e CSS, juntamente com frameworks.
    > Experiência em Backend com JS, GO e PYTHON
    > Fundamentos de RESTful api e banco de dados
